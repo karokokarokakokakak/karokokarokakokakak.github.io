@@ -449,10 +449,10 @@ summary:focus {
 }
 
 .tile__img {
-    width: 250px;
-    height: 140.625px;
-    -o-object-fit: cover;
-    object-fit: cover;
+  width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .tile__details {
